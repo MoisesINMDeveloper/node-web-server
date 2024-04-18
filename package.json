@@ -1,0 +1,16 @@
+{
+  "name": "proyect-web-server",
+  "version": "0.0.1",
+  "description": "Proyecto de web server para curso de NodeJS",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js "
+  },
+  "author": "Moises Israel Navarro Mendoza",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "env-var": "^7.4.1",
+    "express": "^4.19.2"
+  }
+}
